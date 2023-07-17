@@ -1,89 +1,89 @@
-altair @ file:///croot/altair_1687526041770/work
+altair 
 appdirs==1.4.4
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-attrs @ file:///work/ci_py311/attrs_1676822758931/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+asttokens 
+attrs 
+backcall 
 blinker==1.4
-Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
+Bottleneck 
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
-certifi @ file:///croot/certifi_1683875369620/work/certifi
-cffi @ file:///work/ci_py311/cffi_1676822533496/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///work/ci_py311/click_1676825163161/work
-comm @ file:///work/ci_py311/comm_1677709131612/work
-cryptography @ file:///croot/cryptography_1686613057838/work
-debugpy @ file:///work/ci_py311/debugpy_1676824903649/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
-GitPython @ file:///work/ci_py311/gitpython_1676830561001/work
-idna @ file:///work/ci_py311/idna_1676822698822/work
-importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
-ipykernel @ file:///work/ci_py311/ipykernel_1677867938687/work
-ipython @ file:///croot/ipython_1680701871216/work
-ipywidgets @ file:///croot/ipywidgets_1679394798311/work
-jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
-Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
-joblib @ file:///croot/joblib_1685113087166/work
-jsonschema @ file:///croot/jsonschema_1678983421637/work
-jupyter_client @ file:///croot/jupyter_client_1680171862562/work
-jupyter_core @ file:///croot/jupyter_core_1679906564508/work
-jupyterlab-widgets @ file:///croot/jupyterlab_widgets_1679055282532/work
-markdown-it-py @ file:///croot/markdown-it-py_1684279902645/work
-MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
-matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
-mdurl @ file:///work/ci_py311/mdurl_1676827289376/work
+cachetools 
+certifi 
+cffi 
+charset-normalizer 
+click 
+comm 
+cryptography 
+debugpy 
+decorator 
+executing 
+gitdb 
+GitPython 
+idna 
+importlib-metadata 
+ipykernel 
+ipython 
+ipywidgets 
+jedi 
+Jinja2 
+joblib 
+jsonschema 
+jupyter_client 
+jupyter_core 
+jupyterlab-widgets 
+markdown-it-py 
+MarkupSafe 
+matplotlib-inline 
+mdurl 
 mkl-fft==1.3.6
-mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-random 
 mkl-service==2.4.0
-nest-asyncio @ file:///work/ci_py311/nest-asyncio_1676823382924/work
-numexpr @ file:///croot/numexpr_1683221822650/work
-numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
-packaging @ file:///croot/packaging_1678965309396/work
+nest-asyncio 
+numexpr 
+numpy 
+packaging 
 pandas==1.5.3
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+parso 
+pexpect 
+pickleshare 
 Pillow==9.4.0
-platformdirs @ file:///work/ci_py311/platformdirs_1676823055788/work
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
-prompt-toolkit @ file:///work/ci_py311/prompt-toolkit_1676824857154/work
+platformdirs 
+pooch 
+prompt-toolkit 
 protobuf==3.20.3
-psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+psutil 
+ptyprocess 
+pure-eval 
 pyarrow==11.0.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pydeck @ file:///work/ci_py311/pydeck_1676845289071/work
-Pygments @ file:///croot/pygments_1684279966437/work
-Pympler @ file:///tmp/build/80754af9/pympler_1602785470644/work
-pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
-pyrsistent @ file:///work/ci_py311/pyrsistent_1676823088752/work
-PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pytz @ file:///work/ci_py311/pytz_1676825004346/work
-PyYAML @ file:///work/ci_py311/pyyaml_1676827445582/work
-pyzmq @ file:///croot/pyzmq_1686601365461/work
-requests @ file:///croot/requests_1682607517574/work
-rich @ file:///croot/rich_1684282154404/work
-scikit-learn @ file:///croot/scikit-learn_1684954695550/work
+pycparser 
+pydeck 
+Pygments 
+Pympler 
+pyOpenSSL 
+pyrsistent 
+PySocks 
+python-dateutil 
+pytz 
+PyYAML 
+pyzmq 
+requests 
+rich 
+scikit-learn 
 scipy==1.10.1
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-streamlit @ file:///croot/streamlit_1689179184772/work
-tenacity @ file:///croot/tenacity_1682972284834/work
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-toolz @ file:///work/ci_py311/toolz_1676827522705/work
-tornado @ file:///work/ci_py311/tornado_1676823418767/work
-traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
-typing_extensions @ file:///croot/typing_extensions_1686601443660/work
-tzlocal @ file:///work/ci_py311/tzlocal_1676842973332/work
-urllib3 @ file:///croot/urllib3_1686163155763/work
-validators @ file:///tmp/build/80754af9/validators_1612286467315/work
-watchdog @ file:///work/ci_py311/watchdog_1676846191736/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-widgetsnbextension @ file:///croot/widgetsnbextension_1679313860248/work
-zipp @ file:///work/ci_py311/zipp_1676822894295/work
+six 
+smmap 
+stack-data 
+streamlit 
+tenacity 
+threadpoolctl 
+toml 
+toolz 
+tornado 
+traitlets 
+typing_extensions 
+tzlocal 
+urllib3 
+validators 
+watchdog 
+wcwidth 
+widgetsnbextension 
+zipp 
