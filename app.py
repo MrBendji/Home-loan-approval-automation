@@ -1,5 +1,9 @@
 import pickle
 import streamlit as st
+import sklearn
+import numpy as np
+from sklearn.preprocessing import StandardScaler
+
 
 model = pickle.load(open('home_loan_approval_model.pkl', 'rb'))
 scaler = pickle.load(open('scaler.pkl', 'rb'))
